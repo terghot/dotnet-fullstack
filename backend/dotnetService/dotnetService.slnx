@@ -1,0 +1,16 @@
+<Solution>
+  
+  <Folder Name = "/src/">
+
+    <Project Path ="src/dotnetService.Contracts/dotnetService.Contracts.csproj" /> 
+
+    <Project Path ="src/dotnetService.Domain/dotnetService.Domain.csproj" />
+
+    <Project Path ="src/dotnetService.Core/dotnetService.Core.csproj" />
+
+    <Project Path ="src/dotnetService.Infrastructure.Postgres/dotnetService.Infrastructure.Postgres.csproj" />
+    
+    <Project Path ="src/dotnetService.Web/dotnetService.Web.csproj" />
+  </Folder>
+</Solution>
+

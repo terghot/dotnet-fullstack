@@ -1,0 +1,12 @@
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Domain/obj/Debug/net10.0/dotnetService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Domain/obj/Debug/net10.0/dotnetService.Domain.AssemblyInfoInputs.cache
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Domain/obj/Debug/net10.0/dotnetService.Domain.AssemblyInfo.cs
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Domain/obj/Debug/net10.0/dotnetService.Domain.csproj.CoreCompileInputs.cache
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Domain/obj/Debug/net10.0/dotnetService.Domain.sourcelink.json
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Domain/bin/Debug/net10.0/dotnetService.Domain.deps.json
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Domain/bin/Debug/net10.0/dotnetService.Domain.dll
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Domain/bin/Debug/net10.0/dotnetService.Domain.pdb
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Domain/obj/Debug/net10.0/dotnetService.Domain.dll
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Domain/obj/Debug/net10.0/refint/dotnetService.Domain.dll
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Domain/obj/Debug/net10.0/dotnetService.Domain.pdb
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Domain/obj/Debug/net10.0/ref/dotnetService.Domain.dll

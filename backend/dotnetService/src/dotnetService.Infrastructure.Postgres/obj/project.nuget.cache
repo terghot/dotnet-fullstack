@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v3I51RdtErQ=",
+  "success": true,
+  "projectFilePath": "/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Infrastructure.Postgres/dotnetService.Infrastructure.Postgres.csproj",
+  "expectedPackageFiles": [
+    "/Users/terghot/.nuget/packages/asyncfixer/1.6.0/asyncfixer.1.6.0.nupkg.sha512",
+    "/Users/terghot/.nuget/packages/meziantou.analyzer/2.0.264/meziantou.analyzer.2.0.264.nupkg.sha512",
+    "/Users/terghot/.nuget/packages/roslynator.analyzers/4.15.0/roslynator.analyzers.4.15.0.nupkg.sha512",
+    "/Users/terghot/.nuget/packages/sonaranalyzer.csharp/10.20.0.135146/sonaranalyzer.csharp.10.20.0.135146.nupkg.sha512"
+  ],
+  "logs": []
+}

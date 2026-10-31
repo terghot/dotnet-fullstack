@@ -1,0 +1,16 @@
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Core/bin/Debug/net10.0/dotnetService.Core.deps.json
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Core/bin/Debug/net10.0/dotnetService.Core.dll
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Core/bin/Debug/net10.0/dotnetService.Core.pdb
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Core/bin/Debug/net10.0/dotnetService.Contracts.dll
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Core/bin/Debug/net10.0/dotnetService.Contracts.pdb
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Core/obj/Debug/net10.0/dotnetService.Core.csproj.AssemblyReference.cache
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Core/obj/Debug/net10.0/dotnetService.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Core/obj/Debug/net10.0/dotnetService.Core.AssemblyInfoInputs.cache
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Core/obj/Debug/net10.0/dotnetService.Core.AssemblyInfo.cs
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Core/obj/Debug/net10.0/dotnetService.Core.csproj.CoreCompileInputs.cache
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Core/obj/Debug/net10.0/dotnetService.Core.sourcelink.json
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Core/obj/Debug/net10.0/dotnetSe.E354968B.Up2Date
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Core/obj/Debug/net10.0/dotnetService.Core.dll
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Core/obj/Debug/net10.0/refint/dotnetService.Core.dll
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Core/obj/Debug/net10.0/dotnetService.Core.pdb
+/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Core/obj/Debug/net10.0/ref/dotnetService.Core.dll
