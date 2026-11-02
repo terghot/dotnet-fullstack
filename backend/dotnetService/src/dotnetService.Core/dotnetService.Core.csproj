@@ -1,0 +1,6 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="../dotnetService.Contracts/dotnetService.Contracts.csproj" />
+    <ProjectReference Include="../dotnetService.Domain/dotnetService.Domain.csproj" />
+  </ItemGroup>
+</Project>
