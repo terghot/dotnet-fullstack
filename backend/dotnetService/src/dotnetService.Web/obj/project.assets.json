@@ -88,7 +88,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
-          "dotnetService.Contracts": "1.0.0"
+          "dotnetService.Contracts": "1.0.0",
+          "dotnetService.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/dotnetService.Core.dll": {}
@@ -111,7 +112,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
-          "dotnetService.Core": "1.0.0"
+          "dotnetService.Core": "1.0.0",
+          "dotnetService.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/dotnetService.Infrastructure.Postgres.dll": {}

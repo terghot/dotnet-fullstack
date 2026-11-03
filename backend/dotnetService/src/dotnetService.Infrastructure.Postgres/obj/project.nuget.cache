@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "v3I51RdtErQ=",
+  "dgSpecHash": "nKAOngPBOjc=",
   "success": true,
   "projectFilePath": "/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Infrastructure.Postgres/dotnetService.Infrastructure.Postgres.csproj",
   "expectedPackageFiles": [

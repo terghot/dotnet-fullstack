@@ -550,6 +550,9 @@
             "projectReferences": {
               "/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Contracts/dotnetService.Contracts.csproj": {
                 "projectPath": "/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Contracts/dotnetService.Contracts.csproj"
+              },
+              "/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Domain/dotnetService.Domain.csproj": {
+                "projectPath": "/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Domain/dotnetService.Domain.csproj"
               }
             }
           }
@@ -1306,6 +1309,9 @@
             "projectReferences": {
               "/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Core/dotnetService.Core.csproj": {
                 "projectPath": "/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Core/dotnetService.Core.csproj"
+              },
+              "/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Domain/dotnetService.Domain.csproj": {
+                "projectPath": "/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Domain/dotnetService.Domain.csproj"
               }
             }
           }

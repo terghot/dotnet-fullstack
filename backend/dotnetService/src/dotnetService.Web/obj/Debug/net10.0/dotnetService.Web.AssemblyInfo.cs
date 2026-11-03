@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnetService.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5e1d24529d18c7014c11c9dd42a07a9bc5946c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf1a051e4773a758753039b5f016d4a004b7d52e")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnetService.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnetService.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

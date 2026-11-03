@@ -32,6 +32,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "dotnetService.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/dotnetService.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/dotnetService.Domain.dll": {}
+        }
       }
     }
   },
@@ -139,6 +149,11 @@
       "type": "project",
       "path": "../dotnetService.Contracts/dotnetService.Contracts.csproj",
       "msbuildProject": "../dotnetService.Contracts/dotnetService.Contracts.csproj"
+    },
+    "dotnetService.Domain/1.0.0": {
+      "type": "project",
+      "path": "../dotnetService.Domain/dotnetService.Domain.csproj",
+      "msbuildProject": "../dotnetService.Domain/dotnetService.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -147,7 +162,8 @@
       "Meziantou.Analyzer >= 2.0.264",
       "Roslynator.Analyzers >= 4.15.0",
       "SonarAnalyzer.CSharp >= 10.20.0.135146",
-      "dotnetService.Contracts >= 1.0.0"
+      "dotnetService.Contracts >= 1.0.0",
+      "dotnetService.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -180,6 +196,9 @@
           "projectReferences": {
             "/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Contracts/dotnetService.Contracts.csproj": {
               "projectPath": "/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Contracts/dotnetService.Contracts.csproj"
+            },
+            "/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Domain/dotnetService.Domain.csproj": {
+              "projectPath": "/Users/terghot/dotnet-fullstack/dotnet-fullstack/backend/dotnetService/src/dotnetService.Domain/dotnetService.Domain.csproj"
             }
           }
         }
