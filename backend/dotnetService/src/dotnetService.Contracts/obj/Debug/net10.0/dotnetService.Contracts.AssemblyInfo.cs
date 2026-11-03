@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnetService.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf1a051e4773a758753039b5f016d4a004b7d52e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f74a5a54a09cf8dc95aa895ae8c4cd2f05d71c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnetService.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnetService.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
