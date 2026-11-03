@@ -24,9 +24,9 @@ public class Department
 
     public string Name { get; private set; }
 
-    public string Slug { get; set; }
+    public string Slug { get; private set; }
 
-    public string Path { get; set; }
+    public string Path { get; private set; }
 
     public Guid ParentId { get; set; }
 
